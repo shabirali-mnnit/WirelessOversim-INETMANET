@@ -1,0 +1,15 @@
+examples
+src
+-inet.examples.WIMAX.WiMAXHandover
+-inet.examples.voiptool
+-inet.underTest.wimax
+-inet.underTest.hip
+-inet.transport.tcp_lwip
+-inet.examples.WIMAX.WiMAXQoS
+-inet.examples.voipstream
+-inet.underTest.Ieee80211
+-inet.underTest._4gsim
+-inet.applications.voipstream
+-inet.applications.voiptool
+-inet.transport.tcp_nsc
+-inet.examples.hip
