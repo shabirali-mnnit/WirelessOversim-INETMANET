@@ -11,4 +11,6 @@ We have created a generic interface to bypass the functionalities of SimpleUDP a
 • The create() and killpeer() methods of Simple Underlay model of OverSim, that manages joining and leaving of overlay nodes (churn) are modified to incorporate dynamic IP address assignment to nodes and handling of events.
 
 In this modified configurator module, we have the liberty to select any of the available radio models, MAC models, mobility models, ad hoc routing protocols and TCP variants as per our requirement. The detailed description is as available in the following article:
+
+
 S. Ali, A. Sewak, M. Pandey and N. Tyagi, "Simulation of P2P overlays over MANETs: Impediments and proposed solution," 2017 9th International Conference on Communication Systems and Networks (COMSNETS), 2017, pp. 338-345, doi: 10.1109/COMSNETS.2017.7945395.
